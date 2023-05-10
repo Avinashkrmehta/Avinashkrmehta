@@ -1,4 +1,4 @@
-![image](https://drive.google.com/file/d/18G5A6fF3xzUJbDw-DmwPTtyF0AK05M0d/view)
+![1589725355641](https://github.com/Avinashkrmehta/Avinashkrmehta/assets/13481468/a8470ea6-473b-4203-8290-bca28a199259)
 
 
 - 👋 Hi, I’m @Avinashkrmehta
