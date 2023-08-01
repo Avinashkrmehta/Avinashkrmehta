@@ -10,5 +10,9 @@
 
 ![Avinashkrmehta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avinashkrmehta&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashkrmehta)](https://github.com/Avinashkrmehta/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Avinashkrmehta&show_icons=true&count_private=true) 
+
 ![code-1683793950038-5255](https://github.com/Avinashkrmehta/Avinashkrmehta/assets/13481468/306f589d-7b40-4bb1-b62f-2f1861ae7ae3)
 
