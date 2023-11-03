@@ -10,5 +10,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Avinashkrmehta&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- ![code-1683793950038-5255](https://github.com/Avinashkrmehta/Avinashkrmehta/assets/13481468/306f589d-7b40-4bb1-b62f-2f1861ae7ae3) -->
+![code-1683793950038-5255](https://github.com/Avinashkrmehta/Avinashkrmehta/assets/13481468/306f589d-7b40-4bb1-b62f-2f1861ae7ae3)
 
